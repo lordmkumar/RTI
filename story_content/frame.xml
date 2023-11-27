@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="RTI Module" />
+              <option name="title_text" value="RTI" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -68,7 +68,7 @@
           <option name="pauseplay" value="true" />
           <option name="replay" value="true" />
           <option name="search" value="false" />
-          <option name="closed_captions" value="true">
+          <option name="closed_captions" value="false">
             <options>
               <option name="font" value="Lato" />
             </options>
@@ -1583,23 +1583,24 @@
             <slidelink slideid="_player.6MqhTHNkU1W.6KeSa0TxPjG" displaytext="Title" expand="false" type="slide" />
             <slidelink slideid="_player.6MqhTHNkU1W.6l6Ra09W36W" displaytext="Learning Objectives" expand="false" type="slide" />
             <slidelink slideid="_player.6MqhTHNkU1W.6HuFrsc9Dth" displaytext="Case 1" expand="false" type="slide" />
-            <slidelink slideid="_player.6MqhTHNkU1W.6MdKzuIyiaN" displaytext="Case 2" expand="false" type="slide" />
-            <slidelink slideid="_player.6MqhTHNkU1W.6Cq7rGuo68Z" displaytext="Case 3" expand="false" type="slide" />
-            <slidelink slideid="_player.6MqhTHNkU1W.6b4uHIkGyK4" displaytext="Case 5" expand="false" type="slide" />
-            <slidelink slideid="_player.6MqhTHNkU1W.6HS0CyuRj3D" displaytext="Case 6" expand="false" type="slide" />
+            <slidelink slideid="_player.6MqhTHNkU1W.6jmy1XtKX8e" displaytext="Case 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6MqhTHNkU1W.6CfADxk57xc" displaytext="Case 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6MqhTHNkU1W.6pdBfYKQglQ" displaytext="Case 3" expand="false" type="slide" />
             <slidelink slideid="_player.6MqhTHNkU1W.6WfHbF482nQ" displaytext="CRB-65" expand="false" type="slide" />
             <slidelink slideid="_player.6MqhTHNkU1W.5r82MJKeiGg" displaytext="WHAT IS COMMUNITY ACQUIRED PNEUMONIA (CAP)?" expand="false" type="slide" />
             <slidelink slideid="_player.6MqhTHNkU1W.6moeiwilPhb" displaytext="TREATMENT OF CAP" expand="false" type="slide" />
             <slidelink slideid="_player.6MqhTHNkU1W.6moZnMqSFUy" displaytext="TREATMENT OF CAP (Pharmacological)" expand="false" type="slide" />
             <slidelink slideid="_player.6MqhTHNkU1W.5VB8gbm0eXW" displaytext="Key Points" expand="false" type="slide" />
             <slidelink slideid="_player.6MqhTHNkU1W.5eUPOmDgmAQ" displaytext="Case 4" expand="false" type="slide" />
+            <slidelink slideid="_player.6MqhTHNkU1W.6QWoaW0PdXm" displaytext="Case 5" expand="false" type="slide" />
+            <slidelink slideid="_player.6MqhTHNkU1W.6JFgRunLI1j" displaytext="Case 6" expand="false" type="slide" />
             <slidelink slideid="_player.6MqhTHNkU1W.6mz7J8pXyqV" displaytext="Upper Respiratory Tract" expand="false" type="slide" />
             <slidelink slideid="_player.6MqhTHNkU1W.6T1FIGjQmPX" displaytext="Lower Respiratory Tract" expand="false" type="slide" />
             <slidelink slideid="_player.6MqhTHNkU1W.6nfPGnpcRf5" displaytext="Examination" expand="false" type="slide" />
             <slidelink slideid="_player.6MqhTHNkU1W.6YHzzW5CSHu" displaytext="Examination" expand="false" type="slide" />
             <slidelink slideid="_player.6MqhTHNkU1W.5pniOu4pigw" displaytext="Examination" expand="false" type="slide" />
             <slidelink slideid="_player.6MqhTHNkU1W.6HRHro9rVce" displaytext="Classification of Pneumonia" expand="false" type="slide" />
-            <slidelink slideid="_player.6MqhTHNkU1W.6qj5lhRiFQb" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6MqhTHNkU1W.6qj5lhRiFQb" displaytext="Video" expand="false" type="slide" />
             <slidelink slideid="_player.6MqhTHNkU1W.5o9LC8LSLOA" displaytext="OTITIS MEDIA | Indication of Antibiotic" expand="false" type="slide" />
             <slidelink slideid="_player.6MqhTHNkU1W.5VNQuELPBJc" displaytext="References" expand="false" type="slide" />
             <slidelink slideid="_player.6MqhTHNkU1W.5cdY4kHQUbu" displaytext="Case Visuals" expand="false" type="slide" />
